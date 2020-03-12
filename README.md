@@ -1,4 +1,6 @@
 # Litmuschaos
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flitmuschaos%2Fwebsite-litmuschaos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flitmuschaos%2Fwebsite-litmuschaos?ref=badge_shield)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
@@ -25,3 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flitmuschaos%2Fwebsite-litmuschaos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flitmuschaos%2Fwebsite-litmuschaos?ref=badge_large)
